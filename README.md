@@ -4,7 +4,10 @@ Welcome to the ****Data Warehouse and Analytics Project** Repository!
 
 This Project Demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to genrating actionable insights.Designed as a portfolio project highlights industry best practices in the data engineering and analytics.
 
+### Project Planning
+https://peat-dresser-de9.notion.site/Data-Warehouse-Project-SQL-1478b8abd0ad83e89816012f5b3b3473
 ---
+
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
@@ -92,6 +95,3 @@ This project is licensed under the [MIT License].(LICENSE). You are free to use,
 **About ME**
 
 Hi there! i am **Mumtaz Sajid Khan**. I am IT and Data Professional working at National Aquaculture Group KSA.
-
-### Project Planning
-https://peat-dresser-de9.notion.site/Data-Warehouse-Project-SQL-1478b8abd0ad83e89816012f5b3b3473
