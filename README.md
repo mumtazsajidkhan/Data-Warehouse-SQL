@@ -92,3 +92,6 @@ This project is licensed under the [MIT License].(LICENSE). You are free to use,
 **About ME**
 
 Hi there! i am **Mumtaz Sajid Khan**. I am IT and Data Professional working at National Aquaculture Group KSA.
+
+### Project Planning
+https://peat-dresser-de9.notion.site/Data-Warehouse-Project-SQL-1478b8abd0ad83e89816012f5b3b3473
